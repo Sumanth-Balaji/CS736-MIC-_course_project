@@ -1,1 +1,1 @@
-# CS736-MIC-_course_project
+# CS736-MIC-course_project
